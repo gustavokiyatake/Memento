@@ -17,3 +17,5 @@ Caretaker sabe não só “quando” e “por quê” capturar o estado do origi
 Caretaker pode manter registros do histórico do originator armazenando os mementos em um pilha. Quando o originator precisa voltar atrás no histórico, a Caretaker busca o memento mais do topo da pilha e o passa para o método de restauração do originator.
 
 # Exemplo de Implementação
+https://github.com/gustavokiyatake/Memento/tree/main/Memento_Pattern_aula/src
+
