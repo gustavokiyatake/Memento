@@ -18,4 +18,5 @@ Caretaker pode manter registros do histórico do originator armazenando os memen
 
 # Exemplo de Implementação
 https://github.com/gustavokiyatake/Memento/tree/main/Memento_Pattern_aula/src
+https://github.com/gustavokiyatake/Memento/tree/main/Memento_Pattern_exemplo/src
 
